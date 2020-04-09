@@ -4,7 +4,14 @@
 Criei esse repositório com a ajuda do _Curso em Vídeo_
 Essa linha foi adicionada diretamente do _GitHub_, **QUE IMPRESSIONANTE!!**
 
-#### VEJA MAIS SOBRE MIM:
+###  Linguagens Que Uso 
+| Linguagens | Experiência |
+| --- | ---
+| Python | Básico/Intermediário |
+| HTML/CSS/JS | Básico |
+| MarkDown | Intermediário |
+
+### VEJA MAIS SOBRE MIM:
 
 
    * Acesse meu canal do [YouTube](https://youtube.com/gamesantos)
