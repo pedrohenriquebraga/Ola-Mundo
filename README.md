@@ -1,7 +1,8 @@
 # Olá, Mundo!!
 
 ### Este é meu **primeiro repositório!!**
-Criei esse repositório com a ajuda do _Curso em Vídeo_
+Criei esse repositório com a ajuda do *_Curso em Vídeo._*
+
 Essa linha foi adicionada diretamente do _GitHub_, **QUE IMPRESSIONANTE!!**
 
 ###  Linguagens Que Uso 
