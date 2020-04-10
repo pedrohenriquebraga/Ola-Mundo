@@ -9,8 +9,6 @@ Essa linha foi adicionada diretamente do _GitHub_, **QUE IMPRESSIONANTE!!**
 | Linguagens | Experiência |
 | --- | ---
 | Python | Básico/Intermediário |
-| HTML/CSS/JS | Básico |
-| MarkDown | Intermediário |
 
 ### VEJA MAIS SOBRE MIM:
 
